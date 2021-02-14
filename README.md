@@ -104,6 +104,8 @@ O projeto necessita de algumas preparações para funcionar em um computador loc
   
 ## Controle de versões
 
+[Aqui você encontra todas as versões existentes do projeto, desde sua criação, ao seu término.](miniProjeto_Controle_de_versões)
+
 ## Autores
 
 Gabriel Faria de Souza Lima.
