@@ -4,7 +4,7 @@
 
 Repositorio dedicado a analisé do projeto desenvolvido no 2º ano letivo de Engenharia da Informatica
 
-*Leia em outras linguas: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
+*Leia em outras linguas: [English](README.en.md), [português](README.md).*
 
 ## Contents
 
