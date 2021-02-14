@@ -8,7 +8,7 @@ Repository dedicated to analyzing the project developed in the 2nd academic year
 
 ## Contents
 
-1. [Breve Descrição](#Short-description)
+1. [Short description](#Short-description)
 1. [Suport Documentation](#Suport-Documentation)
 1. [Project Calendarization](#Project-Calendarization)
 1. [Startup](#Startup)
