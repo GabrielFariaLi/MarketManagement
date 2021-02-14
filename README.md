@@ -4,7 +4,7 @@
 
 Repositorio dedicado a analisé do projeto desenvolvido no 2º ano letivo de Engenharia da Informatica
 
-*Leia em outras linguas: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
+*Leia em outras linguas: [English](README.en.md), [português](README.md).*
 
 ## Contents
 
@@ -103,6 +103,8 @@ O projeto necessita de algumas preparações para funcionar em um computador loc
   . XAMPP
   
 ## Controle de versões
+
+[Aqui você encontra todas as versões existentes do projeto, desde sua criação, ao seu término.](miniProjeto_Controle_de_versões)
 
 ## Autores
 
