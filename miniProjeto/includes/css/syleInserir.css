@@ -1,0 +1,44 @@
+.nav.inc{
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #7f0000;
+    box-shadow: 0 0 20px rgba(0, 0, 2);
+    font-family: 'Poppins', sans-serif;  
+}
+
+*{
+    margin : 0px;
+    padding : 0px;
+    box-sizing: border-box;
+}
+
+a{
+    cursor: pointer;
+}
+
+.home,.novo_elemento{
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    background: rgb(199, 100, 8);
+    margin: 10px;
+    border-radius: 30%;
+    box-shadow: 0 5px 15px -5px #00000070;
+    color: rgb(226,226,226);
+    overflow: hidden;
+    text-align: center;
+}
+
+
+
+.home i,.novo_elemento i{
+    position: relative;
+    line-height: 90px;
+    font-size: 30px;
+    transition: 0.2s linear;
+}
+.home:hover i,.acoes:hover i,.novo_elemento:hover i,.acoes_encomenda:hover i{
+    transform: scale(1.3);
+  }

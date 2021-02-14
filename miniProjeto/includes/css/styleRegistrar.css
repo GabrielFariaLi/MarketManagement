@@ -1,0 +1,310 @@
+*{
+    margin : 0px;
+    padding : 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+img{
+    width: 50%;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+    background-image: url("../imgs/centroIMG.jpg");  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.seccao_form{
+    width: 850px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,1);
+    background: rgb(168, 130, 14);
+    padding: 20px;
+    margin: 10px auto 10px;
+    text-align: center;
+}
+
+.error_registrar{
+    color: rgb(85,1,1);
+}
+
+.sucesso_registrar{
+    color: green;
+}
+
+.linha_registrar{
+    opacity: 0.5;
+    color: #111;
+}
+
+.titulo_texts{
+    color: rgb(226,226,226);
+    text-align: center;
+    justify-content: left;
+    letter-spacing: 2px;
+    font-size: 24px;
+}
+
+.titulo_texts_group{
+  color: rgb(226,226,226);
+  text-align: center;
+  justify-content: left;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.caixa_input{
+    background: rgb(85, 1, 1);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 90%;
+    height: 7%;
+    border: 2px solid rgb(94, 72, 8);
+    outline: none;
+    color: rgb(226,226,226);
+}
+
+.caixa_input_group{
+  background: rgb(85, 1, 1);
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 80%;
+  border: 2px solid rgb(94, 72, 8);
+  outline: none;
+  color: rgb(226,226,226);
+}
+
+
+.caixa_input:focus,.caixa_input_group:focus{
+    box-shadow:  0 0 10px 0.5px #ddd;
+}
+
+
+.textaviso{
+    font-size: 15px;
+    border: 3px outset rgba(0,0,0,1);
+    border-radius: 8px;
+    margin-bottom: 10px;
+   background-color: rgb(85, 1, 1);
+   color: snow;
+}
+
+.confirma_text{
+    color: rgb(226,226,226);
+}
+
+.dropdown_registrar{
+    color: rgb(226,226,226);
+}
+
+.option_chegada{
+    background: rgb(85, 1, 1);
+}
+.holder {
+    border-bottom: 1px dashed #ccc;
+    padding: 0 0 30px;
+    margin: 0 0 30px;
+  }
+  
+  .row {
+    margin: 0 0 15px;
+  }
+  
+  h2 {
+    font-weight: 500;
+    font-size: 30px;
+    margin: 0 0 20px;
+  }
+
+  .select_css {
+    display: block;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #111;
+    line-height: 1.3;
+    padding: .6em 1.4em .5em .8em;
+    width: 100%;
+    max-width: 100%; 
+    box-sizing: border-box;
+    margin: 0;
+    border: 1px solid #aaa;
+    box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+    border-radius: .5em;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: rgb(199, 100, 8);
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E'),
+      linear-gradient(to bottom, rgb(110, 2, 2) 0%,rgb(133, 5, 5) 100%);
+    background-repeat: no-repeat, repeat;
+    background-position: right .7em top 50%, 0 0;
+    background-size: .65em auto, 100%;
+    color: rgb(226,226,226);
+}
+.select_css::-ms-expand {
+    display: none;
+}
+.select_css:hover {
+    border-color: #888;
+}
+.select_css:focus {
+    border-color: rgb(165, 126, 19);
+    box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+    box-shadow: 0 0 0 3px -moz-mac-focusring;
+    color: rgb(226,226,226); 
+    outline: none;
+}
+.select_css option {
+    font-weight:normal;
+}
+
+
+.formulario_inserir select {
+    width: 100%;
+    height: 100%;
+    background: none;
+    border: none;
+    -webkit-appearance: none;
+    padding: 0 50px 0 20px;
+    cursor: pointer;
+    font: 300 18px/1.5 'Roboto', sans-serif;
+    text-indent: 5px;
+  }
+  
+  .formulario_inserir select:focus {
+    outline: none;
+  }
+  
+  .formulario_inserir option {
+    font: 300 16px/1.5 'Roboto', sans-serif;
+  }
+  
+  .formulario_inserir .select {
+    position: relative;
+    background: rgb(85,1,1);
+    border: 1px solid rgb(94, 72, 8);
+    height: 50px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .formulario_inserir .select:before {
+    content: '';
+    background: rgb(199, 100, 8);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 40px;
+    pointer-events: none;
+  }
+  
+  .formulario_inserir .select:after {
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 7px 0;
+    border-color: #fff transparent transparent transparent;
+    position: absolute;
+    right: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+
+  .formulario_inserir input[type="checkbox"] {
+    position: absolute;
+    left: -9999px;
+  }
+  
+  .formulario_inserir input[type="checkbox"]+label {
+    position: relative;
+    padding: 3px 0 0 40px;
+    cursor: pointer;
+  }
+  
+  .formulario_inserir input[type="checkbox"]+label:before {
+    content: '';
+    background: rgb(199, 100, 8);
+    border: 2px solid rgb(85,1,1);
+    border-radius: 3px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .formulario_inserir input[type="checkbox"]+label:after {
+    content: '';
+    border-style: solid;
+    border-width: 0 0 2px 2px;
+    border-color: transparent transparent rgb(85,1,1) rgb(85,1,1);
+    width: 15px;
+    height: 8px;
+    position: absolute;
+    top: 6px;
+    left: 5px;
+    opacity: 0;
+    transform: scale(2) rotate(-45deg);
+    transition: transform 0.3s linear, opacity 0.3s linear;
+  }
+  
+  .formulario_inserir input[type="checkbox"]:checked+label:after {
+    opacity: 1;
+    transform: scale(1) rotate(-45deg);
+  }
+  
+.btnregistrar,.btnadicionar,.btnremover{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: rgb(85, 1, 1);
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.btnregistrar_chegada{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: rgb(85, 1, 1);
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 750px;
+    height: 50px;
+}
+
+.btnregistrar:hover,.btnregistrar_chegada:hover{
+    background: rgb(199, 100, 8);
+    transform: rotate();
+}
+
+.btnadicionar:hover{
+  background: green;
+  transform: rotate();
+}
+
+.btnremover:hover{
+  background: red;
+  transform: rotate();
+}
