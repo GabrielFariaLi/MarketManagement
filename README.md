@@ -36,7 +36,7 @@ O projeto busca solucionar todas as requisições em todas as áreas pretendidas
 
 [Aqui você encontra o plano de gestão do projeto MarketManagement.](MarketManagement%20Software%20Management%20Plan.pdf)
 
-[Aqui você encontra o plano de arquitetura de dados do Market Management.](MarketManagement%20Estrutura%20de%20Dados%20MarketManagement.pdf)
+[Aqui você encontra o plano de arquitetura de dados do Market Management.](MarketManagement%20Estrutura%20de%20Dados.pdf)
 
 ## Calendarização do projeto
 
