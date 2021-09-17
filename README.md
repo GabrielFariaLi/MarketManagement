@@ -21,16 +21,38 @@ Repositorio dedicado a analisé do projeto desenvolvido no 2º ano letivo de Eng
 
 ### Qual é o problema a ser resolvido?
 
-Prentendia-se um sistema capaz em ajudar na gestão dos stocks de um hipermercado, uma ferramenta que pudesse ajudar na recepção de encomendas dos fornecedores e a deslocação dos produtos do armazem para as seções e suas respectivas prateleiras.
+Atualmente em um dia a dia de um estudante ou professor, é inevitável a preocupação
+contínua em inúmeros projetos, deveres, obrigações, datas importantes ou qualquer
+informação que precisa ser guardada, cada um desses eventos carregam consigo inúmeras
+pesquisas, apontamentos e características individuais que ao final de uma semana ou um
+mês podem facilmente serem esquecidos com a falta do planejamento pessoal, fenômenos
+como “Information overload” ou seja, a dificuldade em entender qual o é o problema
+efetivamente e ainda mais importante ainda, quais atitudes devem ser tomadas para
+solucionar um devido problema, esse fenômeno é justamente causado pelo quantidade
+excessiva de informações diárias sobre diversos assuntos.
+
+Além disso, cada vez é mais necessario o processo de facilitação do acesso a informação, muitas as vezes um individuo não sabe aonde encontrar resolução de problemas para uma disciplina em especifico de maneira eficiente e realmente de acordo com suas preferencias em questão de como receber esse conhecimento ( Textos, Exercicios, Livros etc...)
 
 ### Como o projeto pode ajudar?
 
-Nos dias atuais a melhor solução para uma efetiva gestão de uma empresa se da pelo desenvolvimento informatico do mesmo, nesse ponto nosso software pode ajudar de forma imensa em todos os pontos solicitados e ir além para efetivamente ser uma peça fundamental de alguma empresa no dia-a-dia.
-
+O projeto trata-se de uma ferramente feita sob medida para o âmbito acadêmico, fornecendo um espaço virtual com a possibilidade de organizar e manter qualquer informação pertinente ao utilizador e além disso também se preocupa em conseguir ser um canal de troca de conhecimento. Com o professor munindo a biblioteca virtual do YourSpot com diversos conhecimentos disponibilizados no formato (Livros, Textos, etc...) de preferencia do aluno, proporcionando uma progressão acadêmica realmente efetiva e personalizada para os melhores gostos pessoais do mesmo.
 
 ### Objetivo do projeto
 
-O projeto busca solucionar todas as requisições em todas as áreas pretendidas pela parte interessada,  facilitando consideravelmente toda a parte de organização e distribuição de todos os produtos do mercado que são a parte mais crucial para o mesmo. toda a movimentação dos produtos no hipermercado será efectuada recorrendo ao uso de leitores de códigos de barras, modernizando as funções e deixando-as mais eficazes. pretende-se incluir funcionalidades que consigam permitir a recepção das encomendas do fornecedor tal como a deslocação do armazém para as secções e respectiva prateleira, abrindo portas para um nível de encomendas controladas e permitindo a melhor organização dos produtos. Além da implementação notável da gestão de todos os produtos, o sistema também possui funcionalidades para a venda dos produtos, permitindo que o cliente, caso não fique satisfeito, possa devolver um produto num prazo máximo a se definir.
+A intenção e o desejo final para o projeto é a adoção efetiva do aplicativo pela parte
+interessada, ou seja o projeto conseguir prover todos os objetivos e garantir uma ferramenta
+confiável, acessível, personalizável e diferenciada. Podendo salvar horas acumuladas de
+trabalho desnecessário, sendo uma ajuda que efetivamente pode melhorar níveis acadêmicos,
+sociais, organizacionais e até mesmo emocionais do utilizador com a melhor gestão de suas
+atividades, direitos e deveres através da customização pessoal.
+Em épocas incertas como a atual de uma pandemia, o aplicativo pode ser uma grande
+ferramenta para professores e alunos que necessitam de uma organização online em outro
+patamar. O comprometimento e propósito deste projeto consiste no sucesso do utilizador em
+fazer uso de todas as ferramentas que serão desenvolvidas e aplicá-las no seu dia a dia, dessa
+forma obtendo melhores desempenhos e auxiliando na sua organização, além de pôr em
+discussão possíveis melhores formas de se comunicar e transmitir informações entre aluno e
+professor.
+
 
 ## Documentação suporte
 
